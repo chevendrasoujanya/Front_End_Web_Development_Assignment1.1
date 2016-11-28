@@ -81,3 +81,36 @@ button.btn.buy-it-btn {
     color: gray;
     padding: 5px 8px;
 }
+
+/* Session 3 - Assignment 2 Related CSS */
+section.wordpress-theme {
+	width: 500px;
+	border: 1px solid #eee;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+section.top-menubar {
+    min-height: 50px;
+    background: #2f2d2d;
+}
+
+section.logo {
+	text-align: center;
+}
+
+section.content {
+	text-align: center;
+}
+
+img#w-logo {
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 12px;
+}
+
+section.content input[type=text] {
+    height: 30px;
+}
